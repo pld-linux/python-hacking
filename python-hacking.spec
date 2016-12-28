@@ -8,7 +8,7 @@ Summary:	OpenStack Hacking Guideline enforcement plugins
 Summary(pl.UTF-8):	Wtyczki wymuszające OpenStack Hacking Guideline
 Name:		python-hacking
 Version:	0.10.2
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Development/Languages/Python
 #Source0Download: https://pypi.python.org/simple/hacking/
