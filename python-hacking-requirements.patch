@@ -2,7 +2,7 @@
 +++ hacking-0.10.2/requirements.txt	2016-03-25 21:59:14.993490596 +0100
 @@ -3,9 +3,9 @@
  # process, which may cause wedges in the gate later.
- pbr>=0.11,<2.0
+ pbr>=0.11
  
 -pep8==1.5.7
 -pyflakes==0.8.1
