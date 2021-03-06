@@ -62,6 +62,7 @@ Requires:	python-mccabe >= 0.2.1
 Requires:	python-modules >= 1:2.6
 Requires:	python-pep8 >= 1.5.7
 Requires:	python-six >= 1.7.0
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
