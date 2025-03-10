@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Wtyczki wymuszające OpenStack Hacking Guideline
 Name:		python-hacking
 # keep 2.x here for python2 support
 Version:	2.0.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Development/Languages/Python
 Source0:	https://files.pythonhosted.org/packages/source/h/hacking/hacking-%{version}.tar.gz
